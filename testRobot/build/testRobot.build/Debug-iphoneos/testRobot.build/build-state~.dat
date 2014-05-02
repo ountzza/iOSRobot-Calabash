@@ -1,0 +1,400 @@
+TtestRobot
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/testRobot.app/ResourceRules.plist
+cProcessPCH /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch testRobot/testRobot-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot normal armv7
+cCopyStringsFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings testRobot/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets
+cProcessInfoPlistFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Info.plist /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist
+cGenerateDSYMFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot
+cProcessProductPackaging /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision
+cTouch /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent
+cCodeSign /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534EA72E0000000000000132
+t1397663534
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531F3B530000000000000094
+t1394555731
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531F3B530000000000000096
+t1394555731
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F3B53000000000000036B
+t1394555731
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F3B53000000000000019E
+t1394555731
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534EA71B00000000004D7BC0
+t1397663515
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FC40D0000000000A90C10
+t1394590733
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FC4180000000002759920
+t1394590744
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FC44A0000000000000ADC
+t1394590794
+s2780
+
+N/Users/Pondd/Library/MobileDevice/Provisioning Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision
+c000000005363A08300000000000056EC
+t1399038083
+s22252
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+t1399038418
+s374
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM
+t2
+s0
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Base.lproj/Main.storyboardc
+t1399038418
+s170
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Info.plist
+t1399038418
+s1298
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/PkgInfo
+t1399038418
+s8
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/ResourceRules.plist
+t1399038416
+s150
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision
+t1399038418
+s22252
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings
+t1399038417
+s42
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot
+t1399038417
+s53720
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o
+t1399038417
+s61752
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o
+t1399038417
+s39232
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o
+t1399038417
+s3792
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/testRobot.LinkFileList
+c000000005363A1D00000000000000182
+t1399038416
+s386
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_dependencies.txt
+t1399038418
+s338
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_generated_info.plist
+t1399038418
+s525
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent
+t1399038418
+s412
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m
+c0000000053639B4100000000000007E4
+t1399036737
+s2020
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard
+c0000000053639B41000000000000071B
+t1399036737
+s1819
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets
+c0000000053639B410000000000000088
+t1399036737
+s136
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m
+c0000000053639B4100000000000001FA
+t1399036737
+s506
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/en.lproj/InfoPlist.strings
+c0000000053639B41000000000000002D
+t1399036737
+s45
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m
+c0000000053639B41000000000000015E
+t1399036737
+s350
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist
+c0000000053639B4100000000000004C6
+t1399036737
+s1222
+
+N/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Prefix.pch
+c0000000053639B410000000000000158
+t1399036737
+s344
+
+N/var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch
+t1399038417
+s88044
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0a9ddb50d913b941^7e72f450d913b941^---0#1#1#--18"Check dependencies36"56A2090C-EB85-4567-A2C1-18385D064F8E-
+
+CCodeSign /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+s420731218.257426
+e420731218.388797
+r1
+xCodeSign
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"[1mCodeSign[0m [1mbuild/Debug-iphoneos/testRobot.app[0m59"[1mCodeSign[0m [1mbuild/Debug-iphoneos/testRobot.app[0m37fd4152d913b941^ac8b6352d913b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/0000000000000000^1057"[1mCodeSign[0m [1mbuild/Debug-iphoneos/testRobot.app[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    Using code signing identity "iPhone Developer: Suwitcha Sugthana (6ET229TT2K)" and provisioning profile "iOS Team Provisioning Profile: *" (CDC3979A-2BBB-4018-B17D-1D6AC4663632)    /usr/bin/codesign --force --sign 84FE67C1342B1CC0DCCF952985690EB4022ADF4A --resource-rules=/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/ResourceRules.plist --entitlements /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app36"DBAC7BB3-6F1F-499E-AD13-371BD8D53566-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCompileAssetCatalog /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets
+s420731217.922634
+e420731218.229315
+r1
+xCompileAssetCatalog
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/LaunchImage-700-568h@2x.png
+o/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Assets.car
+o/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"[1mCompileAssetCatalog[0m build/Debug-iphoneos/testRobot.app [1mtestRobot/Images.xcassets[0m96"[1mCompileAssetCatalog[0m build/Debug-iphoneos/testRobot.app [1mtestRobot/Images.xcassets[0md53fec51d913b941^80b53a52d913b941^-366"/* com.apple.actool.compilation-results *//Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/LaunchImage-700-568h@2x.png/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Assets.car/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets/0000000000000000^1101"[1mCompileAssetCatalog[0m build/Debug-iphoneos/testRobot.app [1mtestRobot/Images.xcassets[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Images.xcassets36"7827C753-A55A-42A3-9801-E15632E544B8-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420731217.734837
+e420731217.814406
+r1
+xCompileC
+xbuild/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m205"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o [1mtestRobot/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9433bc51d913b941^b88fd051d913b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m0000000000000000^3460"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o [1mtestRobot/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=136 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-generated-files.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-own-target-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-all-target-headers.hmap -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-project-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources/armv7 -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources -F/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos -include /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch -MMD -MT dependencies -MF /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.m -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o36"C1217005-286B-4BD6-9F98-229760CF9566-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420731217.734556
+e420731217.817798
+r1
+xCompileC
+xbuild/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m211"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o [1mtestRobot/ViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e20bc51d913b941^dd5bd151d913b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m0000000000000000^3478"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o [1mtestRobot/ViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=136 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-generated-files.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-own-target-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-all-target-headers.hmap -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-project-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources/armv7 -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources -F/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos -include /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch -MMD -MT dependencies -MF /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.dia -c /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/ViewController.m -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o36"F64D85DF-07C5-4C9B-AE27-C7BA96915124-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCompileC build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420731217.735163
+e420731217.805775
+r1
+xCompileC
+xbuild/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m191"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o [1mtestRobot/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6056bc51d913b941^d449ce51d913b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m0000000000000000^3418"[1mCompileC[0m build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o [1mtestRobot/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=136 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-generated-files.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-own-target-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-all-target-headers.hmap -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-project-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources/armv7 -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources -F/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos -include /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch -MMD -MT dependencies -MF /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.dia -c /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/main.m -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o36"63DB231B-FA8B-4967-BC6E-CF08F2C8A9E2-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCompileStoryboard /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard
+s420731217.922286
+e420731218.238173
+r1
+xCompileStoryboard
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"[1mCompileStoryboard[0m [1mtestRobot/Base.lproj/Main.storyboard[0m70"[1mCompileStoryboard[0m [1mtestRobot/Base.lproj/Main.storyboard[0m2f33ec51d913b941^90f93c52d913b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard0000000000000000^851"[1mCompileStoryboard[0m [1mtestRobot/Base.lproj/Main.storyboard[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Base.lproj/Main.storyboardc /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/Base.lproj/Main.storyboard36"6BE629DE-E91F-49F7-A27B-19CB9181AFC6-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCopyStringsFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings testRobot/en.lproj/InfoPlist.strings
+s420731217.922134
+e420731217.923445
+r1
+xCopyStringsFile
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings
+xtestRobot/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy testRobot/en.lproj/InfoPlist.strings122"[1mCopyStringsFile[0m build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings testRobot/en.lproj/InfoPlist.stringsbc22ec51d913b941^3867ec51d913b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/en.lproj/InfoPlist.strings0000000000000000^625"[1mCopyStringsFile[0m build/Debug-iphoneos/testRobot.app/en.lproj/InfoPlist.strings testRobot/en.lproj/InfoPlist.strings    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/en.lproj -- testRobot/en.lproj/InfoPlist.strings36"4CE1E504-DDF5-48E5-BFA1-282A5A756274-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/testRobot.app/ResourceRules.plist
+s420731216.957363
+e420731216.958702
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/testRobot.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphoneos/testRobot.app/ResourceRules.plist195"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/testRobot.app/ResourceRules.plist7a34f550d913b941^166ef550d913b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/ResourceRules.plist00343caadeffdf42^793"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/testRobot.app/ResourceRules.plist    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app36"5BF42352-9E32-4A7A-9206-F8635FA4E2E3-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CGenerateDSYMFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot
+s420731218.240779
+e420731218.253906
+r1
+xGenerateDSYMFile
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Generate /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM117"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphoneos/testRobot.app.dSYM[0m build/Debug-iphoneos/testRobot.app/testRoboteeb03d52d913b941^c5004152d913b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM00343caadeffdf42^676"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphoneos/testRobot.app.dSYM[0m build/Debug-iphoneos/testRobot.app/testRobot    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app.dSYM36"285F1EF0-4AD3-4C0F-B24C-571C9A6EF6FB-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CLd /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot normal armv7
+s420731217.819043
+e420731217.921427
+r1
+xLd
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot
+xnormal
+xarmv7
+d/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/testRobot.LinkFileList
+d/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/ViewController.o
+d/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Link /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot68"[1mLd[0m build/Debug-iphoneos/testRobot.app/testRobot normal armv78cbbd151d913b941^5ce3eb51d913b941^---0#0#1#--1301"[1mLd[0m build/Debug-iphoneos/testRobot.app/testRobot normal armv7    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos -F/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos -filelist /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/testRobot.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/Objects-normal/armv7/testRobot_dependency_info.dat -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/testRobot36"93DA1B4C-6F32-435F-97FB-DD42617EC0B7-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CProcessInfoPlistFile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Info.plist /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist
+s420731218.238773
+e420731218.240391
+r1
+xProcessInfoPlistFile
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Info.plist
+x/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist113"[1mProcessInfoPlistFile[0m build/Debug-iphoneos/testRobot.app/Info.plist [1mtestRobot/testRobot-Info.plist[0mcf303d52d913b941^4c8c3d52d913b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist0000000000000000^1013"[1mProcessInfoPlistFile[0m build/Debug-iphoneos/testRobot.app/Info.plist [1mtestRobot/testRobot-Info.plist[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Info.plist -genpkginfo /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/ResourceRules.plist -additionalcontentfile /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/assetcatalog_generated_info.plist -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/Info.plist36"437CCA8A-18CE-4419-A5B2-155F12992532-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CProcessPCH /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch testRobot/testRobot-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420731216.959607
+e420731217.733975
+r1
+xProcessPCH
+x/var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch
+xtestRobot/testRobot-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile testRobot/testRobot-Prefix.pch307"[1mProcessPCH[0m /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch testRobot/testRobot-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler58cbf550d913b941^97e5bb51d913b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Prefix.pch0000000000000000^3555"[1mProcessPCH[0m /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch testRobot/testRobot-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=136 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-generated-files.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-own-target-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-all-target-headers.hmap -iquote /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot-project-headers.hmap -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources/armv7 -I/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/DerivedSources -F/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos --serialize-diagnostics /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.d -c /Users/Pondd/Workspace/iOSRobot/testRobot/testRobot/testRobot-Prefix.pch -o /var/folders/qg/jw5xqjt507g8c_sk389_8vm00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/testRobot-Prefix-bvjzheczboenjaccwkhjxdehteme/testRobot-Prefix.pch.pch36"AB7A62E7-B720-48CF-A0F5-4A785E4EE8F4-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent
+s420731218.255897
+e420731218.257066
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection229"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent[0m229"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent[0mf78f4152d913b941^fad04152d913b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent00343caadeffdf42^813"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/testRobot.build/Debug-iphoneos/testRobot.build/testRobot.xcent36"368E3FCA-D78B-4B9A-85EF-CE37C57F2D43-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CProcessProductPackaging /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision
+s420731218.254317
+e420731218.255201
+r1
+xProcessProductPackaging
+x/Users/Pondd/Library/MobileDevice/Provisioning Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision
+x/Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection209"[1mProcessProductPackaging[0m /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision [1mbuild/Debug-iphoneos/testRobot.app/embedded.mobileprovision[0m209"[1mProcessProductPackaging[0m /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision [1mbuild/Debug-iphoneos/testRobot.app/embedded.mobileprovision[0m45294152d913b941^6d564152d913b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision00343caadeffdf42^747"[1mProcessProductPackaging[0m /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision [1mbuild/Debug-iphoneos/testRobot.app/embedded.mobileprovision[0m    cd /Users/Pondd/Workspace/iOSRobot/testRobot    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Pondd/google-cloud-sdk/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Users/Pondd/Library/MobileDevice/Provisioning\ Profiles/CDC3979A-2BBB-4018-B17D-1D6AC4663632.mobileprovision -o /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app/embedded.mobileprovision36"974C935A-782E-41FE-ABEC-594BAA8A56C7-
+b70379112-8CED-4EA8-9CE3-6A5D4831D62C
+
+CTouch /Users/Pondd/Workspace/iOSRobot/testRobot/build/Debug-iphoneos/testRobot.app
+r0
+
